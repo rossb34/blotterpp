@@ -1,0 +1,2 @@
+# blotterpp
+Trade blotter library
